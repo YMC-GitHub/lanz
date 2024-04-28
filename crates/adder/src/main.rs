@@ -1,3 +1,4 @@
+#[allow(clippy::single_component_path_imports)]
 use {add_one, add_two};
 
 fn main() {
